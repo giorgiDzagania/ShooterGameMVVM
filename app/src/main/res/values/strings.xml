@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Shooters</string>
+    <string name="welcome">Welcome</string>
+    <string name="username">UserName:</string>
+    <string name="password">Password:</string>
+    <string name="log_in">Log In</string>
+    <string name="search">Search:</string>
+    <string name="top_free_games">Top Free Games</string>
+    <string name="profile_image_updated_successfully">Profile image updated successfully</string>
+    <string name="permission_denied_to_read_your_external_storage">Permission denied to read your external storage</string>
+    <string name="not_valid_username_or_password">Username/Password is Invalid or empty!</string>
+    <string name="password_must_be_at_least_8_char_long">Password must be at least 8 characters long</string>
+    <string name="genre">Genre:</string>
+    <string name="date">"Date: "</string>
+    <string name="description">- Description :</string>
+</resources>
